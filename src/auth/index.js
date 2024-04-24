@@ -1,0 +1,1 @@
+export * from './pages/LoginPage';//importa todo lo de LoginPage
